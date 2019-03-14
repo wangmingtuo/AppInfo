@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="APPS"
+  id="myeclipse.1551877080236"
+  context-root="/APPS"
+  j2ee-spec="1.7"
+  archive="APPS.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
